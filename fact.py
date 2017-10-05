@@ -7,5 +7,5 @@ print
 print("N fact(N)")
 print("---------")
 
-for n in range(10):
+for n in range(20):
     print(n, fact(n))
